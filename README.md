@@ -5,6 +5,7 @@ My GitHub repositories contains projects that I have worked on in my spare time 
 1.) Hashtag-Search: This is a project that I did as a part of my interview process for Utilant back in 2017.
 
 2.) TicTacToe: This is a fork of my friend's repository for a windows console app they built to famialiarize themselves with C#. 
+<br/>
       I made the fork to demonstrate via a PR some of things I would do to architect his initial version using conventions more 
       familiar to Object Oriented Programming. I also wanted to demonstrate some of my approaches to refactoring.
 
