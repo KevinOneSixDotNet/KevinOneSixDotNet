@@ -2,9 +2,9 @@ Hello, my name is Kevin and I am a full-stack C#/Typescript web developer from B
 
 My GitHub repositories contains projects that I have worked on in my spare time and nothing that is proprietary to any company that I work for.
 
-1.) Hashtag-Search: This is a project that I did as a part of my interview process for Utilant back in 2017.
+1.) <a href="https://github.com/KevinOneSixDotNet/hashtag-search">Hashtag-Search</a>: This is a project that I did as a part of my interview process for Utilant back in 2017.
 
-2.) TicTacToe: This is a fork of my friend's repository for a windows console app they built to famialiarize themselves with C#. 
+2.) <a href="https://github.com/KevinOneSixDotNet/TicTacToe">TicTacToe</a>: This is a fork of my friend's repository for a windows console app they built to famialiarize themselves with C#. 
 <br/>
 -I made the fork to demonstrate via a PR some of things I would do to architect his initial version using conventions more 
 <br/>
