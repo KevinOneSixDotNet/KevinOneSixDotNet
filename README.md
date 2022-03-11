@@ -10,7 +10,7 @@ My GitHub repositories contains projects that I have worked on in my spare time 
 <br/>
 -familiar to Object Oriented Programming. I also wanted to demonstrate some of my approaches to refactoring.
 
-3.) Swerdle: This a clone of the popular daily online game Wordle. It is done using React + Typescript and backed with a simple asp net core API. 
+3.) <a href="https://github.com/KevinOneSixDotNet/swerdle">Swerdle</a>: This a clone of the popular daily online game Wordle. It is done using React + Typescript and backed with a simple asp net core API. 
 <br/>
 -It is currently hosted as a docker containt on a Google Cloud App Engine instance: https://swerdle.ue.r.appspot.com/
 <br/>
