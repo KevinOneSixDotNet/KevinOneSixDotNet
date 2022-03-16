@@ -8,15 +8,15 @@ My GitHub repositories contains projects that I have worked on in my spare time 
 <br/>
 -I made the fork to demonstrate via a PR some of things I would do to architect his initial version using conventions more 
 <br/>
--familiar to Object Oriented Programming. I also wanted to demonstrate some of my approaches to refactoring.
+familiar to Object Oriented Programming. I also wanted to demonstrate some of my approaches to refactoring.
 
-3.) <a href="https://github.com/KevinOneSixDotNet/swerdle">Swerdle</a>: This a clone of the popular daily online game Wordle. It is done using React + Typescript and backed with a simple asp net core API. 
+3.) <a href="https://github.com/KevinOneSixDotNet/swerdle">Swerdle</a>: This a clone of the popular daily online game Wordle. It is done using React + Typescript and backed with a simple asp net core API using .NET 6. 
 <br/>
--It is currently hosted as a docker containt on a Google Cloud App Engine instance: https://swerdle.ue.r.appspot.com/
+-It is currently hosted as a docker container on a Google Cloud App Engine instance: https://swerdle.ue.r.appspot.com/
 <br/>
--It does not use redux and use's React State hooks + browser local storage to persist state across browser sessions.
+-It does not use redux and use's React State hooks + browser local storage to persist state across browser sessions + page refreshes.
       
-4.) Interview Problems: This is combination of various smaller projects that I have encountered in interviews over the year. 
+4.) Interview Problems (Coming Soon): This is combination of various smaller projects that I have encountered in interviews over the year. 
 <br/>
 -Linked List demonstrates a C# implementation of a Linked List without using the .NET framework collections that are provided. It has basic unit tests to demonstrate its correctness, as well as the scope of what it supports.
 <br/>
